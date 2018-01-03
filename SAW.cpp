@@ -54,8 +54,11 @@ int main(){
 	for (j=3;j<4;j++) { b=w[j]; n=ac[i][j]; h4=n/mc4; hasilkali=h4*b; cout<<hasilkali<<" | "; }
 	for (j=4;j<5;j++) { b=w[j]; n=ac[i][j]; h5=n/mc5; hasilkali=h5*b; cout<<hasilkali<<" | "; }
 	cout<<endl;
-	
-	cout << "HASIL AKHIR  :"<<endl;
-}}
+}
+	cout<<endl<<"HASIL AKHIR : "<<endl;
+	cout<<"Nilai A1 : " <<hasil1<<endl;
+	cout<<"Nilai A2 : " <<hasil2<<endl;
+	cout<<"Nilai A3 : " <<hasil3<<endl;
+}
 
 
