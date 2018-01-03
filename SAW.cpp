@@ -21,23 +21,12 @@ int main(){
 		mc3=max(5,max(4,2));
 		mc4=max(3,max(2,2));
 		mc5=max(3,max(3,2));
-	// Def m.a
-
-
-	
-	// AMBIL NILAI MAX TIAP KRITERIA
-
-	// BUAT MATRIKS R
-
-	
-	// MATRIKS R * W
-
-	
-	// PENJUMLAHAN HASIL R * W	
 
 	// MENAMPILKAN NILAI
 	cout << "MATRIKS X :"<<endl;
-
+	for(i=0;i<3;i++){
+		for (j=0;j<5;j++) {
+			cout<<ac[i][j]<<" | ";
 	cout << endl;
 	cout << "MATRIKS R :"<<endl;
 
@@ -47,4 +36,4 @@ int main(){
 
 	cout << "HASIL AKHIR  :"<<endl;
 
-}
+}}}
