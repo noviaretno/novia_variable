@@ -41,7 +41,10 @@ int main(){
 	cout<<endl;
 }
 
-	cout << "BOBOT W :"<<endl;
+	cout<<endl<<"BOBOT W : "<<endl;
+	for (j=0;j<5;j++) {
+	cout<<w[j]<<" | ";			
+}
 
 	cout << "MATRIKS R * W :"<<endl;
 
