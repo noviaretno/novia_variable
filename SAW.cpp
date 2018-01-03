@@ -16,7 +16,11 @@ int main(){
 	cout.precision(4);
 
 	// ISI DATA
-
+		mc1=max(4,max(3,5));
+		mc2=max(4,max(3,4));
+		mc3=max(5,max(4,2));
+		mc4=max(3,max(2,2));
+		mc5=max(3,max(3,2));
 	// Def m.a
 
 
